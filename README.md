@@ -1,6 +1,6 @@
 # GaltonBoard-Design (Python code)
 
-An elementary python code developed for sizing a real Galton board.
+An elementary python code developed for sizing a real Galton board. Theory reference: [Galton Board](https://en.wikipedia.org/wiki/Galton_board)
 
 # Requirements
 
